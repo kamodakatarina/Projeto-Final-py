@@ -1,0 +1,31 @@
+# Controle de Horas Trabalhadas - Escritório de Advocacia
+
+Este é um projeto que visa ajudar um escritório de advocacia a controlar as horas trabalhadas por seus advogados e auxiliares em cada tarefa e cliente. O sistema permite registrar o tempo gasto em tarefas específicas, calcular o total de horas trabalhadas
+e gerar relatórios precisos sobre o tempo gasto em cada tarefa ou cliente.
+
+## Objetivo do Projeto
+
+O objetivo deste projeto é fornecer uma solução simples e eficiente para o cálculo de horas trabalhadas em um escritório de advocacia. A solução permite:
+- Registrar as horas trabalhadas por tarefa e cliente.
+- Calcular o total de horas trabalhadas por dia, semana ou mês.
+- Gerar relatórios detalhados sobre as horas trabalhadas, facilitando a gestão e o faturamento.
+
+## Tecnologias Utilizadas
+
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+Python: Linguagem de programação utilizada para o desenvolvimento do sistema.
+Tkinter: Biblioteca para criação de interfaces gráficas, usada para permitir que os usuários registrem as horas de trabalho.
+SQLit: Banco de dados utilizado para armazenar os registros de horas trabalhadas.
+  
+## Como Funciona
+
+1. Registrar Horas: O colaborador seleciona o cliente e a tarefa realizada, informa o horário de início e término da tarefa, e o sistema calcula automaticamente o tempo trabalhado.
+2. Consultar Registros: O sistema exibe todos os registros de horas trabalhadas, permitindo que os usuários visualizem os dados por cliente e tarefa.
+3. Gerar Relatórios: Relatórios sobre as horas trabalhadas podem ser gerados e exportados em formatos como PDF ou Excel.
+
+## Instalação e Execução
+
+### Requisitos
+
+Certifique-se de que você tenha o Python 3.x instalado em sua máquina.
